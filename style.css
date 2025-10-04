@@ -84,7 +84,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.1); /* inverted white shadow */
+  box-shadow: 0px 4px 10px #140F2B; /* dark purple/blue shadow */
 
   /* Keep icons upright */
   animation: stay-upright 10s linear infinite;
